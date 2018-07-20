@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sunny Days</string>
+
+    <!--Edit text hint message-->
+    <string name="edit_text_hint">Enter Zip Code</string>
+
+    <!--Button message-->
+    <string name="button_text_message">Find Sun!</string>
+
+    <!-- Message when there is sun in the forecast -->
+    <string name="sun_message">There will be sun!</string>
+
+    <!-- Message for when there is no sun in the forecast -->
+    <string name="no_sun_message">There is no sun in the forecast.</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- color for the app bar and other primary UI elements -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- Darker variant of primary color -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!-- a secondary color to identify interactable fields -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
