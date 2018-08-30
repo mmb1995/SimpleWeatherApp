@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 //weatherAdapter.setWeatherList(mWeatherList);
                 TextView tv = (TextView) findViewById(R.id.weather_desciption_tv);
-                tv.setText("Json failed to load properly");
+                tv.setText("Unable to get Weather Data");
             }
         }
     }
