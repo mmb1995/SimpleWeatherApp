@@ -25,6 +25,6 @@ intended to be a robust weather app.
 
 ## License 
 
-The contents of this repository are covered under the [Apache License, Version 2.0] (LICENSE)
+The contents of this repository are covered under the [Apache License, Version 2.0](LICENSE)
 
 
